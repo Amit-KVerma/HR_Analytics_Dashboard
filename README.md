@@ -48,6 +48,50 @@ Comprehensive overview of employee attrition trends across various dimensions su
 ## Dashboard
 ![Snapshot_Dashboard](https://github.com/user-attachments/assets/b250b834-a100-4721-a614-a4fe80e0aff3)
 
+## Key Insights
+
+- Employees with a Bachelor’s Degree have the highest attrition (99 cases).
+
+- Most attrition occurs in the Sales Department (56.12%).
+
+- 25–34 age group shows the highest attrition (112 employees).
+
+- Single employees have higher attrition (470) compared to married and divorced.
+
+- The Sales Executive and Laboratory Technician roles show the most attrition.
+
+- Job satisfaction is relatively low at 2.6/5, potentially contributing to higher turnover.
+
+## Recommendations
+
+- Targeted Retention Plans for Sales Executives and Lab Technicians with high attrition.
+
+- Upskill and Engage Younger Employees (25–34) to improve job satisfaction and growth opportunities.
+
+- Employee Engagement Programs for single and bachelor’s degree holders.
+
+- Improve Work Culture and implement feedback loops to raise satisfaction ratings.
+
+- Conduct Exit Interviews Regularly to uncover root causes of attrition and act on them.
+
+## Personal Suggestions
+
+- Introduce Mentorship Programs to support early-career employees.
+
+- Develop Career Roadmaps especially for high-attrition roles and departments.
+
+- Implement Flexible Work Options to improve work-life balance and retention.
+
+- Host Quarterly Satisfaction Surveys to monitor employee morale proactively.
+
+- Offer Recognition & Rewards for performance and loyalty to boost retention motivation.
+  
+
+
+  
+
+
+
 
 
 
