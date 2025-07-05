@@ -14,4 +14,22 @@ Comprehensive overview of employee attrition trends across various dimensions su
 
 - To support management in making informed workforce decisions.
 
+## Dataset Used
+- <a href="https://github.com/Amit-KVerma/HR_Analytics_Dashboard/blob/main/HR_DATA.xlsx">Hr dataset</a>
+
+## Key Performance Indicators (KPIs)
+
+- Total Employees
+
+- Active Employees
+
+- Attrition Count
+
+- Attrition Rate
+
+- Average Age
+
+- Job Satisfaction Rating
+  
+
 
