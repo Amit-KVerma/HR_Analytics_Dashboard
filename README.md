@@ -1,2 +1,17 @@
 # HR_Analytics_Dashboard
-This HR Analytics Dashboard provides a comprehensive overview of employee attrition trends across various dimensions such as gender, age, education, department, job role, and marital status. It is designed to help HR professionals identify key areas contributing to attrition and assist in strategic workforce planning.
+
+Comprehensive overview of employee attrition trends across various dimensions such as gender, age, education, department, job role, and marital status. It is designed to help HR professionals identify key areas contributing to attrition and assist in strategic workforce planning.
+
+## Project Objective
+
+- To analyze employee attrition trends and patterns.
+
+- To identify key factors contributing to employee turnover.
+
+- To visualize attrition by demographic and professional variables.
+
+- To help HR departments develop data-driven retention strategies.
+
+- To support management in making informed workforce decisions.
+
+
