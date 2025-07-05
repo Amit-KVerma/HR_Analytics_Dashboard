@@ -32,6 +32,25 @@ Comprehensive overview of employee attrition trends across various dimensions su
 - Job Satisfaction Rating
 
 - Dashboard Interaction <a href="https://github.com/Amit-KVerma/HR_Analytics_Dashboard/blob/main/Snapshot_Dashboard.png">View Dashboard</a>
+
+## Process Overview
+
+- Data Collection: Gathered employee data across multiple fields like age, gender, department, job role, education, and marital status.
+
+- Data Cleaning & Preparation: Removed duplicates, handled blanks, and standardized data.
+
+- Data Analysis: Performed exploratory analysis to detect attrition patterns using tools like Excel/Power BI.
+
+- Dashboard Development: Visualized KPIs and insights using charts, graphs, and slicers.
+
+- Interpretation: Generated actionable insights and recommendations for HR strategy.
+
+## Dashboard
+![Snapshot_Dashboard](https://github.com/user-attachments/assets/b250b834-a100-4721-a614-a4fe80e0aff3)
+
+
+
+
   
 
   
